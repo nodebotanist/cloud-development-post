@@ -20,7 +20,7 @@ Sometimes the development machine you have just isn't the one you need-- your re
 
 This can be useful even if the hardware you're on is ideal-- who wants to use all of their CPU for minutes at a time on a build when we can be writing the next feature (or checking Twitter)? Letting a cloud-based environment run all of your code-adjacent tasks allows you to more effectively use the hardware sitting in front of you.
 
-# Cloud environments, connected services
+## Cloud environments, connected services
 
 There's a lot that goes into deploying a web application-- continuous integration, unit testing, linting...these are all manageable by services found easily online, and many of them have a free tier! But trying to utilize all of these with a local machine can be implausible, and integration with a git repository takes away a lon of flexibility to run these services when you want.
 
